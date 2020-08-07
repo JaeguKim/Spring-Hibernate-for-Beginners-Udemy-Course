@@ -60,7 +60,6 @@ INDEX VERSION 1.131+/Users/jaegu/Desktop/dev/Backend/test/.metadata/.plugins/org
 2594282176.index
 3285325638.index
 2345414526.index
-1342575884.index
 3209503069.index
 443110391.index
 782288785.index
