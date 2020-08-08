@@ -8,7 +8,6 @@ public class SoccerCoach implements Coach {
 		super();
 		this.fortuneService = fortuneService;
 	}
-	
 	@Override
 	public String getDailyWorkout() {
 		return "Do Shooting Practice 20 Times Per Day!";
