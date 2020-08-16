@@ -25,7 +25,7 @@ public class CRUDEmployeeDemo {
 			
 			// save the student object			
 			System.out.println("Saving the employee...");
-			session.save(tempEmployee);
+			session.save(teeeeeeeeeempEmployee);
 			*/
 			
 			/*READ
