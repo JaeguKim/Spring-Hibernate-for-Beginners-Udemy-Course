@@ -2,4 +2,6 @@
 <typeInfoHistroy>
     <typeInfo handle="=spring-demo-annotations/src&lt;com.luv2code.springdemo{Coach.java[Coach" modifiers="513" timestamp="1597065851000"/>
     <typeInfo handle="=spring-demo-annotations/src&lt;com.luv2code.springdemo{FortuneService.java[FortuneService" modifiers="513" timestamp="1597065804000"/>
+    <typeInfo handle="=web-customer-tracker/src&lt;com.luv2code.springdemo.dao{CustomerDAO.java[CustomerDAO" modifiers="513" timestamp="1598228057000"/>
+    <typeInfo handle="=web-customer-tracker/src&lt;com.luv2code.springdemo.service{CustomerService.java[CustomerService" modifiers="513" timestamp="1598234299000"/>
 </typeInfoHistroy>
