@@ -3010,3 +3010,4 @@ org.eclipse.core.runtime.CoreException: Could not read maven project
 2020-08-29 21:00:59,457 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2020-08-29 21:00:59,459 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-08-29 21:00:59,463 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jaegu/Downloads/spring-crm-rest-demo/src/test/resources
+2020-08-29 21:11:52,142 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
