@@ -4228,3 +4228,25 @@ org.eclipse.core.runtime.CoreException: Launch configuration MycoolappApplicatio
 2020-09-15 09:58:25,104 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-09-15 09:58:25,107 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-09-15 09:58:25,107 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jaegu/Desktop/dev/Backend/test/03-actuator-demo/src/test/resources
+2020-09-15 10:28:48,310 [Worker-57: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot.demo:mycoolapp:0.0.1-SNAPSHOT @ /Users/jaegu/Desktop/dev/Backend/test/04-command-line-demo/pom.xml.
+2020-09-15 10:28:48,963 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 10:28:48,963 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 10:28:48,965 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-15 10:28:48,966 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 10:28:48,966 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jaegu/Desktop/dev/Backend/test/04-command-line-demo/src/test/resources
+2020-09-15 10:28:50,456 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 10:28:50,457 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 10:28:50,458 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-15 10:28:50,463 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 10:28:50,463 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jaegu/Desktop/dev/Backend/test/04-command-line-demo/src/test/resources
+2020-09-15 10:29:26,001 [Worker-45: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot.demo:mycoolapp:0.0.1-SNAPSHOT @ /Users/jaegu/Desktop/dev/Backend/test/04-command-line-demo/pom.xml.
+2020-09-15 10:29:26,222 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 10:29:26,222 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-15 10:29:26,222 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-15 10:29:26,223 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 10:29:26,223 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jaegu/Desktop/dev/Backend/test/04-command-line-demo/src/test/resources
+2020-09-15 10:29:27,600 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 10:29:27,601 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-15 10:29:27,603 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-15 10:29:27,606 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-15 10:29:27,606 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jaegu/Desktop/dev/Backend/test/04-command-line-demo/src/test/resources
